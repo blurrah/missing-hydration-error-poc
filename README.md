@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+- Add `SECRET` env variable
+- Page will show hydration error due to SECRET env variable not available on the client
+
 ## Getting Started
 
 First, run the development server:
